@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jwt_server_v1</string>
+    <string name="str_login_page">로그인 페이지</string>
+    <string name="label_login">input user id</string>
+    <string name="label_pw">input user pw</string>
+    <string name="str_login">로그인하기</string>
+    <string name="str_is_signup">아직 회원가입이 안되어 있나요?</string>
+</resources>
